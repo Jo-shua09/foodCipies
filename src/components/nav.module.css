@@ -1,0 +1,17 @@
+.nav {
+  padding: 1rem 0 2rem 1rem;
+  box-shadow: 1px 1px 5px rgb(0, 0, 0, 0.2);
+  margin-bottom: 1.5rem;
+  gap: 0;
+}
+.nav span {
+  font-size: 1.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  text-shadow: 1px 1px 10px rgb(0, 0, 0, 0.9);
+  cursor: pointer;
+}
+.nav span:nth-child(1) {
+  font-size: 2rem;
+  margin-right: -0.5rem;
+}

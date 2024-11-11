@@ -1,0 +1,11 @@
+.innerContainer {
+  width: 100%;
+}
+.innerContainer:first-child {
+  width: 100%;
+  flex: 1 1 25rem;
+}
+.innerContainer:last-child {
+  width: 100%;
+  flex: 1 1 45rem;
+}

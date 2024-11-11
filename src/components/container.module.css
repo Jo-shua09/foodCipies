@@ -1,0 +1,7 @@
+.parentContainer {
+  display: flex;
+  margin-top: 4rem;
+  width: 100%;
+  flex-direction: row;
+  gap: 5rem;
+}

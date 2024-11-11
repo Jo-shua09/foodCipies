@@ -1,0 +1,45 @@
+.itemContainer {
+  margin-left: 1rem;
+  box-shadow: 1px 1px 5px rgb(0, 0, 0, 0.5);
+  width: 100%;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  text-align: center;
+  padding-bottom: 1.5rem;
+  margin-bottom: 2rem;
+}
+.itemContainer img {
+  width: 100%;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: 0.2s all ease;
+}
+.itemContainer img:hover {
+  filter: brightness(0.6);
+}
+.itemContainer p {
+  font-size: 1.15rem;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: #393e46;
+}
+.itemContainer button {
+  border: none;
+  outline: none;
+  text-transform: capitalize;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  background-color: rgb(55, 206, 55);
+  padding: 0.7rem 0.7rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  cursor: pointer;
+  transition: 0.4s all ease;
+}
+
+.itemContainer button:hover {
+  transform: scale(1.1);
+  background-color: rgb(8, 161, 8);
+}

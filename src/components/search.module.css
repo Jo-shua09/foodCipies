@@ -1,0 +1,16 @@
+.search {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  margin-top: 2rem;
+}
+.search input {
+  border: none;
+  border-bottom: 0.1rem solid #000;
+  width: 50%;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-size: 1rem;
+  outline: none;
+  color: #393e46;
+}

@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  text-transform: capitalize;
+  outline: none;
+  transition: 0.4s all ease-in-out;
+  width: 100%;
+  height: auto;
+  margin-bottom: 6rem;
+}

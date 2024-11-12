@@ -1,0 +1,25 @@
+.itemContainer {
+  border: 2px solid green;
+  display: flex;
+  width: 99%;
+  flex-direction: row;
+  gap: 2rem;
+  justify-content: space-between;
+}
+.itemsContainers {
+  width: fit-content;
+  border: 2px solid red;
+}
+
+.imageContainer {
+  width: 10rem;
+}
+.imageContainer img {
+  width: 100%;
+}
+h3 {
+  padding: 0;
+  margin: 0;
+}
+.nameContainer {
+}

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Search from "./components/search";
+import Search from "./components/Search";
 import FoodList from "./components/FoodList";
 import Container from "./components/Container";
 import FoodDetails from "./components/FoodDetails";
